@@ -1,2 +1,2 @@
 this is first change
-this is part of feature
+this is part of defects
